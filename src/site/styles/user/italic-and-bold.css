@@ -3,3 +3,7 @@
   --bold-color: #255BF6!important;
   --italic-color: #c00000!important;
 }
+
+em strong{
+        color: none;
+}
