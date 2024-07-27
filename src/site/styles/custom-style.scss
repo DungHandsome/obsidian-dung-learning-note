@@ -13,7 +13,9 @@ body {
 
     --embed-border-left: none !important;
     --embed-padding: none !important;
-
+    img[alt*="no-center"] {
+       display: inline!important;
+    }
 
 
     .image-borders img {
