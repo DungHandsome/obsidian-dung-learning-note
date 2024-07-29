@@ -14,7 +14,7 @@
 $$
 R = \frac {V} {I}
 $$
-Power finding:
+**Power finding**:
 $$
 P = \frac {E} {t} = \frac {W} {t}
 $$
@@ -23,7 +23,7 @@ $$
 P = IV
 $$
 
-Using ohm's law:
+**Using ohm's law**:
 $$
 P = IV
 \textcolor {#c00000}{=>} V = \frac {P} {I}
@@ -37,7 +37,7 @@ P = IV
 \textcolor {#c00000}{=>} I = \frac {V^2} {R}
 $$
 
-Finding Energy:
+**Finding Energy**:
 $$
 E = P \times t = VIt
 $$
